@@ -117,7 +117,7 @@ python exps/lstm/train.py
 python exps/mlp/train.py
 
 # for svm
-python exps/svm
+python exps/svm/train.py
 ```
 
 ## Application
