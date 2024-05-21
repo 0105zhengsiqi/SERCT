@@ -3,6 +3,7 @@ EMO-DB_de
 datasets
 ESD
 TESS
-ckpts
+ckpts/
+!ckpts/cnn-trans/
 figs
 preprocess.py
