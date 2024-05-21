@@ -1,0 +1,5 @@
+TESS
+Test WA = 0.3857 / Test UA = 0.3857 / Test WF1 = 0.3736
+
+ESD
+Test WA = 0.2306 / Test UA = 0.2306 / Test WF1 = 0.2290

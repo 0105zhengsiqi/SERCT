@@ -1,0 +1,43 @@
+TESS
+Train Loss = 1.8467 / Test Loss = 1.8807 / Test WA = 0.2571 / Test UA = 0.2571 / Test WF1 = 0.1843
+Train Loss = 1.7122 / Test Loss = 1.9114 / Test WA = 0.2321 / Test UA = 0.2321 / Test WF1 = 0.1833
+Train Loss = 1.6448 / Test Loss = 1.8638 / Test WA = 0.2786 / Test UA = 0.2786 / Test WF1 = 0.2246
+Train Loss = 1.6223 / Test Loss = 1.8122 / Test WA = 0.3321 / Test UA = 0.3321 / Test WF1 = 0.3035
+Train Loss = 1.5985 / Test Loss = 1.7116 / Test WA = 0.4643 / Test UA = 0.4643 / Test WF1 = 0.4594
+Train Loss = 1.5656 / Test Loss = 1.7607 / Test WA = 0.3893 / Test UA = 0.3893 / Test WF1 = 0.3944
+Train Loss = 1.5576 / Test Loss = 1.5993 / Test WA = 0.6000 / Test UA = 0.6000 / Test WF1 = 0.5832
+Train Loss = 1.5418 / Test Loss = 1.5562 / Test WA = 0.6536 / Test UA = 0.6536 / Test WF1 = 0.6536
+Train Loss = 1.5345 / Test Loss = 1.6372 / Test WA = 0.5571 / Test UA = 0.5571 / Test WF1 = 0.5540
+Train Loss = 1.5287 / Test Loss = 1.5152 / Test WA = 0.7286 / Test UA = 0.7286 / Test WF1 = 0.7276
+Train Loss = 1.4592 / Test Loss = 1.4933 / Test WA = 0.7750 / Test UA = 0.7750 / Test WF1 = 0.7678
+Train Loss = 1.4237 / Test Loss = 1.4864 / Test WA = 0.7679 / Test UA = 0.7679 / Test WF1 = 0.7674
+Train Loss = 1.4006 / Test Loss = 1.4669 / Test WA = 0.7857 / Test UA = 0.7857 / Test WF1 = 0.7826
+Train Loss = 1.3799 / Test Loss = 1.4832 / Test WA = 0.7393 / Test UA = 0.7393 / Test WF1 = 0.7308
+Train Loss = 1.3593 / Test Loss = 1.4364 / Test WA = 0.8179 / Test UA = 0.8179 / Test WF1 = 0.8171
+Train Loss = 1.3489 / Test Loss = 1.4622 / Test WA = 0.7821 / Test UA = 0.7821 / Test WF1 = 0.7825
+Train Loss = 1.3471 / Test Loss = 1.4297 / Test WA = 0.8214 / Test UA = 0.8214 / Test WF1 = 0.8190
+Train Loss = 1.3389 / Test Loss = 1.4653 / Test WA = 0.7750 / Test UA = 0.7750 / Test WF1 = 0.7756
+Train Loss = 1.3294 / Test Loss = 1.4447 / Test WA = 0.8214 / Test UA = 0.8214 / Test WF1 = 0.8177
+Train Loss = 1.3224 / Test Loss = 1.4407 / Test WA = 0.7929 / Test UA = 0.7929 / Test WF1 = 0.7942
+
+ESD
+Train Loss = 1.5361 / Test Loss = 1.5084 / Test WA = 0.3995 / Test UA = 0.3996 / Test WF1 = 0.3185
+Train Loss = 1.5113 / Test Loss = 1.6971 / Test WA = 0.1998 / Test UA = 0.1994 / Test WF1 = 0.0709
+Train Loss = 1.5043 / Test Loss = 1.6722 / Test WA = 0.2078 / Test UA = 0.2074 / Test WF1 = 0.0886
+Train Loss = 1.4985 / Test Loss = 1.5726 / Test WA = 0.2900 / Test UA = 0.2899 / Test WF1 = 0.2424
+Train Loss = 1.4943 / Test Loss = 1.6417 / Test WA = 0.2140 / Test UA = 0.2137 / Test WF1 = 0.1111
+Train Loss = 1.4909 / Test Loss = 1.5413 / Test WA = 0.3059 / Test UA = 0.3058 / Test WF1 = 0.1955
+Train Loss = 1.4921 / Test Loss = 1.4466 / Test WA = 0.4732 / Test UA = 0.4731 / Test WF1 = 0.4705
+Train Loss = 1.4906 / Test Loss = 1.7028 / Test WA = 0.2009 / Test UA = 0.2006 / Test WF1 = 0.0702
+Train Loss = 1.4882 / Test Loss = 1.6656 / Test WA = 0.2158 / Test UA = 0.2154 / Test WF1 = 0.0998
+Train Loss = 1.4869 / Test Loss = 1.5665 / Test WA = 0.2854 / Test UA = 0.2854 / Test WF1 = 0.2259
+Train Loss = 1.4694 / Test Loss = 1.6574 / Test WA = 0.2169 / Test UA = 0.2166 / Test WF1 = 0.1031
+Train Loss = 1.4556 / Test Loss = 1.5564 / Test WA = 0.2757 / Test UA = 0.2754 / Test WF1 = 0.2050
+Train Loss = 1.4476 / Test Loss = 1.5421 / Test WA = 0.2962 / Test UA = 0.2959 / Test WF1 = 0.2313
+Train Loss = 1.4378 / Test Loss = 1.4841 / Test WA = 0.3830 / Test UA = 0.3827 / Test WF1 = 0.3668
+Train Loss = 1.4277 / Test Loss = 1.4827 / Test WA = 0.4081 / Test UA = 0.4080 / Test WF1 = 0.3446
+Train Loss = 1.4135 / Test Loss = 1.4783 / Test WA = 0.4132 / Test UA = 0.4131 / Test WF1 = 0.3518
+Train Loss = 1.4031 / Test Loss = 1.5177 / Test WA = 0.3350 / Test UA = 0.3348 / Test WF1 = 0.2690
+Train Loss = 1.3886 / Test Loss = 1.4612 / Test WA = 0.4224 / Test UA = 0.4222 / Test WF1 = 0.3826
+Train Loss = 1.3791 / Test Loss = 1.5500 / Test WA = 0.2905 / Test UA = 0.2902 / Test WF1 = 0.2231
+Train Loss = 1.2593 / Test Loss = 1.5100 / Test WA = 0.3044 / Test UA = 0.2998 / Test WF1 = 0.2113
