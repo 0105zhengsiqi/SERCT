@@ -7,3 +7,4 @@ ckpts/
 !ckpts/cnn-trans/
 figs
 preprocess.py
+training_log.txt
