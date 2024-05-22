@@ -16,8 +16,9 @@ class MLModel(BaseModel, ABC):
         pickle.dump(self.model, open(save_path, "wb"))
 
     @classmethod
-    def load(cls, path: str, name: str):
-        model_path = os.path.abspath(os.path.join(path, name + '.m'))
+    def load(cls, path: str, name: str=None):
+        # model_path = os.path.abspath(os.path.join(path, name + '.m'))
+        model_path = path
         model = joblib.load(model_path)
         return cls(model, True)
 

@@ -41,3 +41,9 @@ Train Loss = 1.4031 / Test Loss = 1.5177 / Test WA = 0.3350 / Test UA = 0.3348 /
 Train Loss = 1.3886 / Test Loss = 1.4612 / Test WA = 0.4224 / Test UA = 0.4222 / Test WF1 = 0.3826
 Train Loss = 1.3791 / Test Loss = 1.5500 / Test WA = 0.2905 / Test UA = 0.2902 / Test WF1 = 0.2231
 Train Loss = 1.2593 / Test Loss = 1.5100 / Test WA = 0.3044 / Test UA = 0.2998 / Test WF1 = 0.2113
+
+ESD_zh
+Test WA = 0.4800 / Test UA = 0.4800 / Test WF1 = 0.4672
+
+EMO-DB_de
+Test WA = 0.2203 / Test UA = 0.1699 / Test WF1 = 0.1910

@@ -3,3 +3,9 @@ Test WA = 0.3857 / Test UA = 0.3857 / Test WF1 = 0.3736
 
 ESD
 Test WA = 0.2306 / Test UA = 0.2306 / Test WF1 = 0.2290
+
+ESD_zh
+Test WA = 0.2320 / Test UA = 0.2320 / Test WF1 = 0.2307
+
+EMO-DB_de
+Test WA = 0.2048 / Test UA = 0.1863 / Test WF1 = 0.1956
